@@ -7,7 +7,7 @@ const width = 1200;
 const height = 800;
 const padding = { top: 50, bottom: 50, left: 50, right: 50 };
 /*csv path*/
-const origin_Data = "./temperature.csv"
+const origin_Data = "../temperature.csv"
 
 /*set canvas*/
 const svg = d3.select('body').append('svg')

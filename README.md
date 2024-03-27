@@ -6,8 +6,14 @@ This repository contains [homework](https://github.com/wangyf9/ARTS1422-Data-Vis
 - Task 1
   - Create a line chart to represent the change in average monthly temperatures over the course of a year.
   - Mainly focus on **scale**, **axis**, **graph**.
+  
+![image](./hw1/Photo/task1.png)
+
 - Task 2
   - Process the data read from the csv file and draw a heatmap to show the temperature for each month of the century.
   - Mainly focus on **scale**, **axis**, **graph**, **monitor**.
+
+![image](./hw1/Photo/task2.png)
+  
 - Task 3
   - Describe the visualization and interesting patterns you find.
