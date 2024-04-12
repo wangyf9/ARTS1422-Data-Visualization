@@ -17,3 +17,14 @@ This repository contains [homework](https://github.com/wangyf9/ARTS1422-Data-Vis
   
 - Task 3
   - Describe the visualization and interesting patterns you find.
+
+## HW2
+- Mainly focused on visual interaction between images.
+- Task 1
+  - Data preprocessing by using three dimensional reduced methods
+  - Use clustering method to re-export labels
+  - Mainly focus on **K-means** **PCA** **TSNE** **MDS**
+- Task 2
+  - Use preprocessed data to make scatterplots and add interactions of the same data points in different plots.
+  -  Mainly focus on  **axis**, **graph**, **monitor**.
+![image](./hw2/result.png)
